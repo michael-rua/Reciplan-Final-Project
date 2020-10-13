@@ -11,7 +11,7 @@ npm start
 otherwise find it live at www.reciplan.co.nz
 
 
- ![Reciplan, weekview](/public/reciplan.png)
+ ![Reciplan, weekview](/public/reciplanimage.png)
  
 ## Product Vision
 
