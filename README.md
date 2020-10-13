@@ -1,6 +1,7 @@
 ReciPlan
 ===
-
+ ![Reciplan, weekview](/public/weekview.png)
+  ![Reciplan, recipes](/public/recipes.png)
 ## Product Vision
 
 #### An App that takes the stress and hassle out of ‘What to have for dinner?’, meal planning and grocery shopping.
