@@ -1,4 +1,6 @@
-# DREAM TEAM - ReciPlan
+ReciPlan
+===
+
 
 ## Product Vision
 
