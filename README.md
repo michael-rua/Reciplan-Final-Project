@@ -8,7 +8,7 @@ npm install,
 
 npm start
 
-otherwise find it live at www.reciplan.co.nz
+Otherwise find it live at www.reciplan.co.nz
 
 
  ![Reciplan, weekview](/public/reciplanimage.png)
